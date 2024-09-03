@@ -9,5 +9,5 @@ Key Features:
 - Customizable filters and drill-down options for deeper insights.
 
 Designed for data analysts, business strategists, and marketers to quickly interpret churn data and develop effective retention strategies.
-![Customers-Churn-Analysis](Churn-Analysis.png)
+![Customers-Churn-Analysis](Churn Analysis.png)
 
