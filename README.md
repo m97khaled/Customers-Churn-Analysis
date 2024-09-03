@@ -3,9 +3,9 @@ This project is centered on creating interactive dashboards and visualizations t
 
 Key Features:
 
-    Interactive dashboards showcasing key churn metrics and KPIs.
-    Visual analysis of customer behavior, demographics, and usage patterns.
-    Easy-to-understand visuals for identifying high-risk customer segments.
-    Customizable filters and drill-down options for deeper insights.
+- Interactive dashboards showcasing key churn metrics and KPIs.
+- Visual analysis of customer behavior, demographics, and usage patterns.
+- Easy-to-understand visuals for identifying high-risk customer segments.
+- Customizable filters and drill-down options for deeper insights.
 
 Designed for data analysts, business strategists, and marketers to quickly interpret churn data and develop effective retention strategies.
