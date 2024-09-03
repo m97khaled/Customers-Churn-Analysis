@@ -10,5 +10,8 @@ Key Features:
 
 Designed for data analysts, business strategists, and marketers to quickly interpret churn data and develop effective retention strategies.
 
+Check out the [Customer Churn Analysis Project](https://m97khaled.github.io/Customers-Churn-Analysis/) on Tableau Public.
+
+
 ![Customers-Churn-Analysis](Churn-Analysis.png)
 
